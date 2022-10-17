@@ -1,0 +1,6 @@
+C:\Users\Christopher\Desktop\C Projects\Votação_Consurso\Votação_Consurso\bin\Debug\Votação_Consurso.exe.config
+C:\Users\Christopher\Desktop\C Projects\Votação_Consurso\Votação_Consurso\bin\Debug\Votação_Consurso.exe
+C:\Users\Christopher\Desktop\C Projects\Votação_Consurso\Votação_Consurso\bin\Debug\Votação_Consurso.pdb
+C:\Users\Christopher\Desktop\C Projects\Votação_Consurso\Votação_Consurso\obj\Debug\Votação_Consurso.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\C Projects\Votação_Consurso\Votação_Consurso\obj\Debug\Votação_Consurso.exe
+C:\Users\Christopher\Desktop\C Projects\Votação_Consurso\Votação_Consurso\obj\Debug\Votação_Consurso.pdb
